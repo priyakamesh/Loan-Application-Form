@@ -1,0 +1,25 @@
+body {
+	background-color: #efefef;
+
+}
+h1,h3 {
+	text-align: center;
+}
+
+div {
+	
+	padding: .5em;
+}
+#linkedin:valid {
+	background-color: green;
+}
+#linkedin:invalid {
+	background-color: red;
+}
+
+#submit {
+	margin: auto;
+	display: block;
+	font-size: 30px;
+	outline: 1px solid black;
+}
